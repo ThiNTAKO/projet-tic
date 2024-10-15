@@ -3,3 +3,5 @@ rm
 touch 
 mkdir
 git init 
+hello
+thithi
