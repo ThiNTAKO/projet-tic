@@ -5,3 +5,4 @@ mkdir
 git init 
 hello
 thithi
+Clear
