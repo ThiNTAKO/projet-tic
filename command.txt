@@ -1,0 +1,5 @@
+Bash
+rm
+touch 
+mkdir
+git init 
